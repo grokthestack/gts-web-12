@@ -1,4 +1,4 @@
-# Representational state transfer (REST)
+# Representational entity state transfer (REST)
 
 A way of using HTTP verbs (POST, GET, PUT, DELETE) to provide a standardized Web API to remote data.
 
